@@ -1,0 +1,11 @@
+{
+  "name": "server-init",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test \"skills/server-init/test/*.test.mjs\""
+  }
+}
